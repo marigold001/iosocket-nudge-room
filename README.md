@@ -1,3 +1,3 @@
 # iosocket-nudge-room
 
-A socket room with avatars where you can nudge other connected users
+A socket room where users get an avatar and can nudge each other to play a sound
